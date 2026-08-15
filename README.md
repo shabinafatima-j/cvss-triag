@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🛡️ CVSS-Based Vulnerability Triage Dashboard
 
 A lightweight security tool that takes a list of CVE IDs (or a raw scan
