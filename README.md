@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛡️ CVSS-Based Vulnerability Triage Dashboard
 
 A lightweight security tool that takes a list of CVE IDs (or a raw scan
@@ -108,3 +109,6 @@ cvss-triage-dashboard/
 ## License
 
 MIT
+=======
+AI-assisted CVSS vulnerability triage dashboard — pulls live CVE scores from the NVD, auto-tiers risk, and generates plain-English remediation guidance with a free LLM (Groq). Built with Streamlit + Plotly.
+>>>>>>> bf641aee27e963f2781cce6ea8944203687c026e
