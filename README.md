@@ -1,0 +1,1 @@
+AI-assisted CVSS vulnerability triage dashboard — pulls live CVE scores from the NVD, auto-tiers risk, and generates plain-English remediation guidance with a free LLM (Groq). Built with Streamlit + Plotly.
